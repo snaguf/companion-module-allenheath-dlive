@@ -1,6 +1,6 @@
 {
-	"name": "your-module-name",
-	"version": "0.1.0",
+	"name": "companion-module-allenheath-dlive",
+	"version": "1.0.0",
 	"main": "dist/main.js",
 	"type": "module",
 	"scripts": {
